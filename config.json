@@ -1,12 +1,12 @@
 {
     "token": "",
     "color": "BLACK",
-    "prefix": "-",
-    "name": "๖̶ζ͜͡Crowbot",
+    "prefix": "&",
+    "name": "๖̶ζ͜͡Crow Bots",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "684444122609614865"
+        "1009216298586210425"
     ]
 }
